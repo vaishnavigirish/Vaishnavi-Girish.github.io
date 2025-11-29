@@ -105,3 +105,4 @@ Competed as a four-year varsity swimmer and district qualifier, including partic
 
 - **Email:** vaishnavi.girish@nyu.edu  
 - **LinkedIn:** https://www.linkedin.com/in/vaishnavi-girish
+- © 2025 Vaishnavi Girish
