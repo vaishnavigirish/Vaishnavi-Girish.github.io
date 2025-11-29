@@ -102,18 +102,13 @@ Competed as a four-year varsity swimmer and district qualifier, including partic
 ---
 
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/737373/circuit.png" width="45" alt="circuit-icon"/><br>
+  <strong>📫 Contact</strong><br>
+  Email: <a href="mailto:vaishnavi.girish@nyu.edu">vaishnavi.girish@nyu.edu</a><br>
+  LinkedIn: <a href="https://www.linkedin.com/in/vaishnavi-girish">linkedin.com/in/vaishnavi-girish</a><br>
+  Portfolio: <a href="https://vaishnavi-girish.github.io">Vaishnavi-Girish.github.io</a>
 </p>
 
 <p align="center">
-  <strong>Connect with Me</strong><br>
-  📧 Email: <a href="mailto:vaishnavi.girish@nyu.edu">vaishnavi.girish@nyu.edu</a><br>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/in/vaishnavi-girish">linkedin.com/in/vaishnavi-girish</a><br>
-  🌐 Portfolio: <a href="https://vaishnavigirish.github.io">Vaishnavi-Girish.github.io</a>
-</p>
-
-<p align="center">
-  © 2025 <strong>Vaishnavi Girish</strong> • Electrical Engineering • New York University<br>
-  <a href="#top">⬆️ Back to top</a>
+  © 2025 Vaishnavi Girish • Electrical Engineering • New York University
 </p>
 
