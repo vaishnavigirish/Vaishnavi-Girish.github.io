@@ -1,4 +1,4 @@
-# vaishnavigirish.github.io
+# Vaishnavi Girish.github.io
 Electrical Engineering Portfolio
 # Vaishnavi Girish – Electrical Engineering Portfolio
 
