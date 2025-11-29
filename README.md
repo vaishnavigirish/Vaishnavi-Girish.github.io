@@ -17,7 +17,7 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 ---
 
 **Quick Navigation**  
-[About](#about) · [Skills](#skills) · [Coursework](#coursework) · [Project Overview](#project-overview) · [Projects](#projects) · [Leadership](#leadership) · [Resume](#resume) · [Contact](#contact)
+[About](#about) · [Skills](#skills) · [Coursework](#coursework) · [Projects](#projects) · [Leadership](#leadership) · [Resume](#resume) · [Contact](#contact)
 
 ---
 
@@ -43,21 +43,6 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 - Design & Prototyping: Engineering Design & Graphics, CAD Modeling, 3D Printing Workflows, Arduino Systems  
 - Programming & Computational Tools: Python Programming, MATLAB Applications  
 - Mathematics for Engineering: Differential Equations, Linear Algebra, Multivariable Calculus
-
----
-
-<a id="project-overview"></a>
-
-## ⭐ Project Overview
-
-| Project                                   | Summary                                                        | Link                    |
-|-------------------------------------------|----------------------------------------------------------------|-------------------------|
-| TA – RAD Lab                              | Mentoring first-year students in CAD, 3D printing, and Arduino | [View](#ta)             |
-| Fusion Joint Defect Detection (Mears)     | Python-based AI pipeline achieving 82% accuracy                | [View](#fusion-ai)      |
-| Hack3D Digital Manufacturing Cybersecurity| Securing CAD/STL files and detecting tampering                 | [View](#hack3d)         |
-| EchoLink Assistive Device                 | BLE-enabled communication device for non-verbal patients       | [View](#echolink)       |
-| Cloud Data Platform Analysis (Mears)      | Strategic study of Snowflake, Synapse, and BigQuery            | [View](#mears-cloud)    |
-| MES Research (Athena Technologies)        | Evaluating MES platforms for Industry 4.0 manufacturing        | [View](#athena)         |
 
 ---
 
@@ -132,26 +117,4 @@ Currently serves as a Highest Award Specialist for the Girl Scouts of San Jacint
 ---
 
 ### STEMReach Global – Founder  
-Founded STEMReach Global to expand access to STEM learning for students in underserved communities. Designed and delivered virtual STEM workshops, partnered with the Bless Society of Rural and Urban Development in Bangalore, and assembled/donated over 20 STEM kits to support hands-on engineering education. The initiative promotes early exposure to engineering design, problem-solving frameworks, and creativity in technical learning environments.
-
----
-
-### Varsity Athlete – Jordan High School Swim Team  
-Competed as a four-year varsity swimmer and district qualifier, including participation in the 5A Texas Interscholastic Swimming (TISCA) Championships and the FRST club team. Competitive swimming reinforced discipline, resilience, time management, and consistency—qualities that transfer directly to academic performance, engineering research, and long-term project development.
-
----
-
-<a id="resume"></a>
-
-## 📄 Resume
-
-👉 [Download Resume](resume/Vaishnavi_Girish_Resume.pdf)
-
----
-
-<a id="contact"></a>
-
-## 📬 Contact
-
-- **Email:** vaishnavi.girish@nyu.edu  
-- **LinkedIn:** https://www.linkedin.com/in/
+Founded STEMReach Global to expand access to STEM learning for students in underserved communities. Designed and delivered virtual STEM workshops, partnered with the
