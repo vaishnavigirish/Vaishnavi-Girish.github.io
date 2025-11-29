@@ -117,4 +117,43 @@ Currently serves as a Highest Award Specialist for the Girl Scouts of San Jacint
 ---
 
 ### STEMReach Global – Founder  
-Founded STEMReach Global to expand access to STEM learning for students in underserved communities. Designed and delivered virtual STEM workshops, partnered with the
+Founded STEMReach Global to expand access to STEM learning for students in underserved communities. Designed and delivered virtual STEM workshops, partnered with the Bless Society of Rural and Urban Development in Bangalore, and assembled/donated over 20 STEM kits to support hands-on engineering education. The initiative promotes early exposure to engineering design, problem-solving frameworks, and creativity in technical learning environments.
+
+---
+
+### Varsity Athlete – Jordan High School Swim Team  
+Competed as a four-year varsity swimmer and district qualifier, including participation in the 5A Texas Interscholastic Swimming (TISCA) Championships and the FRST club team. Competitive swimming reinforced discipline, resilience, time management, and consistency—qualities that transfer directly to academic performance, engineering research, and long-term project development.
+
+---
+
+<a id="resume"></a>
+
+## 📄 Resume
+
+👉 [Download Resume](resume/Vaishnavi_Girish_Resume.pdf)
+
+---
+
+<a id="contact"></a>
+
+## 📬 Contact
+
+- **Email:** vaishnavi.girish@nyu.edu  
+- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-girish  
+
+<p align="center">
+  <a href="mailto:vaishnavi.girish@nyu.edu">
+    <img src="https://img.shields.io/badge/Email_Me-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="assets/images/VG.png" width="80" alt="VG Footer Logo">
+</p>
+
+<p align="center">
+  © 2025 <strong>Vaishnavi Girish</strong> • Electrical Engineering • New York University<br>
+  <a href="#top">⬆️ Back to top</a>
+</p>
