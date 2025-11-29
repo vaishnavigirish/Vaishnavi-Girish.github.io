@@ -2,8 +2,6 @@
   <img src="assets/images/VG.png" width="120" alt="VG Engineering Logo">
 </p>
 
-<p align="center"><em>New York University • Major: Electrical Engineering • Minor: Finance </em></p>
-
 <a id="about"></a>
 
 Vaishnavi Girish is an Electrical Engineering student at New York University, with a minor in Finance (Aug 2024 – Expected May 2028), dedicated to developing secure, intelligent, and high-performance systems. Her work spans embedded hardware, circuit design, applied machine learning, and digital manufacturing cybersecurity—built through research, technical teaching, and engineering internships.
