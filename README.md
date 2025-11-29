@@ -39,10 +39,10 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 
 ## 📘 Coursework
 
-- Electrical Engineering Foundations: Circuits and Systems, Electromagnetic Fields, Digital Logic  
-- Design & Prototyping: Engineering Design & Graphics, CAD Modeling, 3D Printing Workflows, Arduino Systems  
-- Programming & Computational Tools: Python Programming, MATLAB Applications  
-- Mathematics for Engineering: Differential Equations, Linear Algebra, Multivariable Calculus
+- ***Electrical Engineering Foundations***: Circuits and Systems, Electromagnetic Fields, Digital Logic  
+- ***Design & Prototyping***: Engineering Design & Graphics, CAD Modeling, 3D Printing Workflows, Arduino Systems  
+- ***Programming & Computational Tools***: Python Programming, MATLAB Applications  
+- ***Mathematics for Engineering***: Differential Equations, Linear Algebra, Multivariable Calculus
 
 ---
 
