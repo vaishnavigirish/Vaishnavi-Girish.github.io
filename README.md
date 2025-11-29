@@ -1,5 +1,3 @@
-# Vaishnavi Girish.github.io
-
 <p align="center">
   <img src="assets/images/VG.png" width="120">
 </p>
