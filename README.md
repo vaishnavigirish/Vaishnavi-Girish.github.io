@@ -1,4 +1,11 @@
 # Vaishnavi Girish.github.io
+
+<p align="center">
+  <img src="assets/images/VG.png" width="120">
+</p>
+
+# Vaishnavi Girish – Electrical Engineering Portfolio
+
 Electrical Engineering Portfolio
 # Vaishnavi Girish – Electrical Engineering Portfolio
 
