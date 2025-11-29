@@ -22,6 +22,15 @@ Across all projects, Vaishnavi emphasizes precision, reliability, and real-world
 
 ---
 
+## 📘 Coursework
+
+- **Electrical Engineering Foundations:** Circuits and Systems, Electromagnetic Fields, Digital Logic  
+- **Design & Prototyping:** Engineering Design & Graphics, CAD Modeling, 3D Printing Workflows, Arduino Systems  
+- **Programming & Computational Tools:** Python Programming, MATLAB Applications  
+- **Mathematics for Engineering:** Differential Equations, Linear Algebra, Multivariable Calculus
+
+---
+
 ## 🚀 Highlighted Projects
 
 ### Engineering Undergraduate Teaching Assistant – New York University  
@@ -95,4 +104,4 @@ Competed as a four-year varsity swimmer and district qualifier, including partic
 ## 📬 Contact
 
 - **Email:** vaishnavi.girish@nyu.edu  
-- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-girish  
+- **LinkedIn:** https://www.linkedin.com/in/vaishnavi-girish
